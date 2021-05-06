@@ -1,0 +1,12 @@
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.deps.json
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.dll
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportBLLibrary.pdb
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.dll
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\bin\Debug\netcoreapp3.1\TransportDALLibrary.pdb
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csprojAssemblyReference.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfoInputs.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.AssemblyInfo.cs
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.csproj.CopyComplete
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.dll
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\techtrain\Day16\TransportSolution\TransportBLLibrary\obj\Debug\netcoreapp3.1\TransportBLLibrary.pdb
