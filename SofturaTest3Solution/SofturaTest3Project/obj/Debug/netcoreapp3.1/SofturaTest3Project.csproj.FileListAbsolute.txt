@@ -1,0 +1,13 @@
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.exe
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.deps.json
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.runtimeconfig.json
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.runtimeconfig.dev.json
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.dll
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\bin\Debug\netcoreapp3.1\SofturaTest3Project.pdb
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.csprojAssemblyReference.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.AssemblyInfoInputs.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.AssemblyInfo.cs
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.csproj.CoreCompileInputs.cache
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.dll
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.pdb
+C:\Users\Manju Priyaa\Desktop\MANJU\softura\Technical Training\test\SofturaTest3Solution\SofturaTest3Project\obj\Debug\netcoreapp3.1\SofturaTest3Project.genruntimeconfig.cache

@@ -1,0 +1,160 @@
+1) Create a program that will take 10 numbers from user. And print the numbers that are divisible by 7
+Example 
+Enter the numbers
+80
+90
+77
+21
+56
+23
+66
+45
+90
+10
+The numbers divisible by 7 are 
+77
+21
+56
+
+
+
+2) Create a program that will take a min and a max value from user and print all the prime numbers between it.
+Sample output
+Enter the minimum value
+10
+Enter the minimum value
+20
+The prime numbers between 10 and 20 are
+11
+13
+17
+19
+Another output example
+Enter the minimum value
+10
+Enter the minimum value
+5
+Invalid entry .
+
+
+
+
+3) Create a program that will take numbers from user until the users enters a negative number and print the numbers that are repeating
+Sample output
+10
+11
+23
+67
+10
+23
+100
+20
+-8
+The repeating numbers are
+10
+23
+
+
+
+
+4) Create a program that will take positive numbers from user until the user enters 0 and print back the numbers in ascending order
+Sample output
+10
+11
+23
+67
+10
+23
+100
+20
+0
+The numbers after sorting
+10
+10
+11
+20
+23
+23
+67
+100
+
+
+
+
+5) Create a program that will take login details from user and print welcome if username is “Admin”
+And password is “admin”(case sensitive). The user can try only 3 times max. If the user login fails the third time the application should state that and end
+Sample output
+Please enter the username
+Ramu
+Please enter the password
+1234
+Invalid username or password 
+Try again!!
+Please enter the username
+Admin
+Please enter the password
+1234
+Invalid username or password 
+Try again!!
+Please enter the username
+Admin
+Please enter the password
+ramu
+Invalid username or password 
+Sorry you have already tried 3 times
+Another output sample
+Please enter the username
+Admin
+Please enter the password
+admin
+Welcome….
+
+
+
+
+6) Play the Cow Bull game using an application
+The application should have minimum 5 four letter words
+First time when the game starts the user starts guessing the word.
+If the user guessed word has the same letter in same position then it is score for “Cow” 
+If the user guessed word has the same letter in different position then it is score for “Bull” 
+
+Example 
+Words = [“kite”,”four”,”neat”,”play”,”goal”]
+Play… 
+Enter the guess
+heal
+Cows – 0 Bulls – 1
+Enter the guess
+soul
+Cows – 0 Bulls – 0
+Enter the guess
+time
+Cows – 2 Bulls – 1
+Enter the guess
+type
+Cows – 1 Bulls – 1
+Enter the guess
+kite
+Cows – 4 Bulls – 0
+
+You win!!!
+Do you want to pay again
+Yes
+Enter the guess
+soul
+Cows – 2 Bulls – 0
+…
+
+
+
+
+7) Write a program to validate a card
+4477 4683 4311 3002
+2003 1134 3864 7744
+2+0+0+6+1+2+3+8+3+16+6+8+7+14+4+8
+2+0+0+6+1+2+3+8+3+7+6+8+7+5+4+8
+70%10 =0
+
+
+
+
